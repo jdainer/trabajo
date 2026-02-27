@@ -97,7 +97,7 @@
         <div class="card c5">
             <span class="icon">💱</span>
             <h3>credito amortizacion</h3>
-            <p>Manejo de variables globales y persistencia.</p>
+            <p>simulador de credito.</p>
             <a href="credito/credito.php" class="btn">Abrir Ejercicio</a>
         </div>
 
@@ -105,3 +105,4 @@
 
 </body>
 </html>
+
