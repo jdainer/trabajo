@@ -94,6 +94,13 @@
             <a href="sesion/sesion.php" class="btn">Abrir Ejercicio</a>
         </div>
 
+        <div class="card c5">
+            <span class="icon">💱</span>
+            <h3>credito amortizacion</h3>
+            <p>Manejo de variables globales y persistencia.</p>
+            <a href="credito/credito.php" class="btn">Abrir Ejercicio</a>
+        </div>
+
     </div>
 
 </body>
